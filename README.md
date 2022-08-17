@@ -7,7 +7,7 @@
 <img align="right" width="200" height="200" src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/coding.gif" alt="Coding gif image" />
   
   
-- 👋 Hi, I’m @TwoxDo
+- 👋 Hi, I’m Mustafa
   
 - 👀 I’m interested in coding(any coding)
   
