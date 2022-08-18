@@ -13,7 +13,7 @@
   
 - 🌱 I’m currently learning firebase & firestore
   
--💬 Ask me about **React** and **JavaScript**
+- 💬 Ask me about **React** and **JavaScript**
   
 - 📫 How to reach me **twoxdo@gmail.com**
 
