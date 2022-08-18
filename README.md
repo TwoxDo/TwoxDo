@@ -36,7 +36,7 @@
 <a href="https://instagram.com/mastefoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mastefoo" height="30" width="40" /></a>
 
 <a href="mailto:twoxdo@gmail.com">
-  <img align="center" alt="Falguni @Mail" height="30" width="40px"   src="https://user-images.githubusercontent.com/108660346/185448166-45d7982a-d1b8-4d88-b2c6-d59fd29b92d5.svg" />
+  <img align="center" alt="Falguni @Mail" height="40" width="50px"   src="https://user-images.githubusercontent.com/108660346/185448166-45d7982a-d1b8-4d88-b2c6-d59fd29b92d5.svg" />
 </a>
 </p>
 
